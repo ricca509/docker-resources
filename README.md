@@ -10,6 +10,7 @@
 
  - [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) [doc]
 
- - [Introduction to Docker](https://www.youtube.com/watch?v=Q5POuMHxW-0) [video] (From dotCloud founder and CTO Solomon Hykes)
+ - [Introduction to Docker](https://www.youtube.com/watch?v=Q5POuMHxW-0) [video]  
+ (From dotCloud founder and CTO Solomon Hykes)
 
  - [A Quick Introduction to Docker](http://blog.scottlowe.org/2014/03/11/a-quick-introduction-to-docker/) [doc]
